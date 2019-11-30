@@ -2,3 +2,6 @@ NumPy
 SciPy
 joblib
 scikit-learn
+pandas
+pymongo
+seaborn

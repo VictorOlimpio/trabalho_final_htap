@@ -13,7 +13,7 @@ def read_mongo(db, collection, query={}, no_id=True):
     dataframe =  pd.DataFrame(list(data))
 
     # Delete the _id
-    # if no_id:
-    #     del df['_id']
+    if no_id and '_id' in dataframe.keys():
+        del dataframe['_id']
 
     return dataframe
