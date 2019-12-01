@@ -43,7 +43,9 @@ Feito isso, crie um banco de dados com o nome: crimes_data, em seguida dentro de
 
 Para realizar a ingestão dos dados clique com o botão direito encima da collection, escolha a opção import, e em seguida selecione csv.
 
-Isso abrirá uma aba no lado direito. Nessa aba vá na opção 'Import from CSV File'. Em seguida clique em Execute. Pronto, a ingestão de dados será realizada.
+Isso abrirá uma aba no lado direito. Nessa aba vá na opção 'Import from CSV File' e escolha o arquivo crimes.csv. Em seguida clique em Execute. Pronto, a ingestão de dados será realizada.
+
+OBS: baixe a base de dados crimes.csv presente no classroom da disciplina.
 
 # Executando o projeto
 
