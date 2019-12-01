@@ -22,6 +22,8 @@ Feito isso agora é possível fazer a instalação de todas as dependências exe
 
 ```
 pip install -r requirements.txt
+```
+
 
 # Preparando o banco de dados
 
@@ -47,6 +49,7 @@ Isso abrirá uma aba no lado direito. Nessa aba vá na opção 'Import from CSV 
 
 Para executar o projeto digite no terminal o seguinte comando:
 
-```
 
+```
 python3 main.py
+```
